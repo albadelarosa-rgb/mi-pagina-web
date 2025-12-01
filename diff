@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Alba Barahona | Psicoterapia</title>
+  <link rel="stylesheet" href="estilos.css" />
+</head>
+<body>
+  <header>
+    <h1>Psicoterapia con Alba Barahona</h1>
+    <p>Bienvenida a tu espacio de crecimiento personal y emocional.</p>
+  </header>
+
+  <section id="psicoterapia">
+    <article>
+      <h3>Terapia Cognitiva</h3>
+      <p>Creada por Aaron Beck. Ayuda a modificar pensamientos disfuncionales.</p>
+    </article>
+    <article>
+      <h3>Terapia Conductual</h3>
+      <p>Enfocada en cambiar conductas mediante refuerzos positivos.</p>
+    </article>
+    <article>
+      <h3>Terapia Cognitivo Conductual</h3>
+      <p>Combinación de pensamiento y conducta para tratar trastornos.</p>
+    </article>
+    <article>
+      <h3>Mindfulness</h3>
+      <p>Atención plena para gestionar emociones, estrés y ansiedad.</p>
+    </article>
+    <article>
+      <h3>Terapia de Aceptación y Compromiso (ACT)</h3>
+      <p>Aprende a aceptar y actuar con base en tus valores personales.</p>
+    </article>
+  </section>
+
+  <footer>
+    <p>© Alba Barahona - Psicóloga</p>
+  </footer>
+</body>
+</html>
